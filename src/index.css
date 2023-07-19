@@ -1,0 +1,35 @@
+@import url('https://fonts.cdnfonts.com/css/amazon-ember');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family: 'Amazon Ember', sans-serif;
+}
+
+body {
+  background-color: #222;
+}
+
+.navbar {
+  transition: background-color .3s cubic-bezier(.2,.45,0,1),top .3s cubic-bezier(.2,.45,0,1);
+}
+
+.gradient-black {
+  background-image: linear-gradient(to right, #000 40%, transparent 58%);
+  z-index: 3;
+}
+
+.gradient-black-mobile {
+  background: linear-gradient(to top, #000 0%, transparent 20%);
+}
+
+.gradient-blue {
+  background-image: linear-gradient(to left, #b0e5f7 40%, transparent 58%);
+  z-index: 3;
+}
+
+.gradient-blue-mobile {
+  background: linear-gradient(to top, #b0e5f7 0%, transparent 20%);
+}

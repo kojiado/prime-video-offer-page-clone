@@ -1,1 +1,1 @@
-# prime-video-offer-page-clone
+# hbo-max-clone
