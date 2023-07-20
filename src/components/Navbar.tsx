@@ -103,7 +103,7 @@ const Navbar = () => {
   return (
     <div className={`navbar flex justify-between md:justify-center sticky bg-[#00050d] z-[6] ${isNavbarTransparent ? 'top-0 md:top-[12px] md:bg-transparent' : 'top-0'}`}>
       <div className={`flex w-full md:w-auto justify-between md:justify-center items-center bg-[#00050d] rounded-[8px] ${isNavbarTransparent ? 'shadow-[0_4px_8px_2px_rgba(0,5,13,.5)]' : ''}`}>
-        <img src={prime_white_logo} className='w-[96px] h-max xl:w-[104px] ml-[24px] mr-[36px] xl:mr-[48px]'></img>
+        <img src={prime_white_logo} className='w-[96px] xl:w-[104px] ml-[24px] mr-[36px] xl:mr-[48px]'></img>
 
         <div ref={navbarContentRef} className='h-full flex ml-[36px] xl:ml-[48px] navbar-content'>
           {windowWidth >= 675 ? (
