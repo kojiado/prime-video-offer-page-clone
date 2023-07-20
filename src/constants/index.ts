@@ -17,3 +17,102 @@ export const features = [
     description: "Control data usage while downloading and watching videos on select phones or tablets."
   },
 ]
+
+export const languages = [
+  {
+    name: "English"
+  },
+  {
+    name: "Bosnian"
+  },
+  {
+    name: "Spanish"
+  },
+  {
+    name: "French"
+  },
+  {
+    name: "German"
+  },
+  {
+    name: "Italian"
+  },
+  {
+    name: "Portuguese"
+  },
+  {
+    name: "Dutch"
+  },
+  {
+    name: "Japanese"
+  },
+  {
+    name: "Chinese (Simplified)"
+  },
+  {
+    name: "Chinese (Traditional)"
+  },
+  {
+    name: "Korean"
+  },
+  {
+    name: "Russian"
+  },
+  {
+    name: "Arabic"
+  },
+  {
+    name: "Hindi"
+  },
+  {
+    name: "Bengali"
+  },
+  {
+    name: "Urdu"
+  },
+  {
+    name: "Turkish"
+  },
+  {
+    name: "Vietnamese"
+  },
+  {
+    name: "Thai"
+  },
+  {
+    name: "Indonesian"
+  },
+  {
+    name: "Malay"
+  },
+  {
+    name: "Swahili"
+  },
+  {
+    name: "Swedish"
+  },
+  {
+    name: "Norwegian"
+  },
+  {
+    name: "Danish"
+  },
+  {
+    name: "Finnish"
+  },
+  {
+    name: "Greek"
+  },
+  {
+    name: "Hebrew"
+  },
+  {
+    name: "Polish"
+  },
+  {
+    name: "Czech"
+  },
+  {
+    name: "Hungarian"
+  }
+];
