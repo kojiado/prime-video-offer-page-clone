@@ -1,5 +1,8 @@
 # Prime Video Offer Page Clone (Front-end Only)
 
+![Prime Video Offer Page Banner](https://github.com/kojiado/prime-video-offer-page-clone/assets/127887180/51e02f86-b0a5-47bb-9dea-81b7a8298250)
+
+
 ## Introduction
 
 This project is a clone of the Prime Video Offer Page, built using React and TypeScript. The aim of this project was to recreate the Prime Video Offer Page with utmost accuracy, focusing solely on the front-end development. 
