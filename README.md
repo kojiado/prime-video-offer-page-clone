@@ -1,6 +1,7 @@
 # Prime Video Offer Page Clone (Front-end Only)
 
-![Prime Video Offer Page Banner](https://github.com/kojiado/prime-video-offer-page-clone/assets/127887180/24a23daa-dde3-469f-9be3-28797bb79073)
+![Prime Video Offer Page Banner](https://github.com/kojiado/prime-video-offer-page-clone/assets/127887180/906dad4c-1a4f-4362-a23a-d493fd3b7f77)
+
 
 
 
